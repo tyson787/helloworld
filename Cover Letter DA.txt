@@ -1,0 +1,15 @@
+Parth Sharma
+
+Dear Sir,
+
+I am writing to express my interest in the Data Analyst position at BRP as advertised. With a strong foundation in data analysis and extensive technical skills, I am excited about the opportunity to contribute to your team. My background in SQL, Python, R, and tools like Power BI and Excel positions me well to provide valuable insights and data-driven solutions.
+
+At Vivma Software Inc, I honed my abilities in database management and software development, using SQL and PL/SQL to create robust database solutions. My experience in building database objects and writing complex queries ensures that I can handle data manipulation tasks efficiently.
+
+In my recent project "Cyclistic Customer Analysis," I utilized MS Excel, SQL, and Power BI to analyze historical bike trip data, providing actionable insights to maximize memberships. Another project, "Bellabeat," involved analyzing FitBit data with Python and Power BI to inform marketing strategies. These projects strengthened my technical skills and enhanced my ability to derive meaningful insights from data.
+
+I am particularly drawn to BRP due to its commitment to innovation and data-driven decision-making. I am confident that my technical expertise and passion for data analytics will make me a valuable asset to your team. Thank you for considering my application. I look forward to discussing this opportunity with you.
+
+Sincerely,
+Parth Sharma
+
