@@ -1,6 +1,7 @@
 Parth Sharma
 
 Dear Sir,
+(This should be updated with the name of recruiter)
 
 I am writing to express my interest in the Data Analyst position at BRP as advertised. With a strong foundation in data analysis and extensive technical skills, I am excited about the opportunity to contribute to your team. My background in SQL, Python, R, and tools like Power BI and Excel positions me well to provide valuable insights and data-driven solutions.
 
